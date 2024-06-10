@@ -13,22 +13,23 @@ library(lubridate)
 library(pROC)
 library(pdp)
 library(RColorBrewer)
-library(rgdal)
+#library(rgdal)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path)) 
 
 ## Load in and format data #######################################################
 
 chem.raw <- read.csv("Iowa Lakes Dataset 2000-2022.csv")
-chem.raw$sampleDate <- as.POSIXct(chem.raw$sampleDate, format="%m/%d/%Y %H:%M:%S")
+#chem.raw$sampleDate <- as.POSIXct(chem.raw$sampleDate, format="%m/%d/%Y %H:%M:%S") #<-- for some reason this doesn't work on 5/30/24
 
 #unique(chem.raw$qualFlag) #no quality flags or remarks
 #unique(chem.raw$remark)
 #unique(chem.raw$name) #what to do with duplicate/variant lake names???
 #unique(chem.raw$analyte) #any vars to leave out? Potential duplicate/variant analyte names?
 
-chem.recent.long <- chem.raw[year(chem.raw$sampleDate) >=2017,]
-chem.recent.long$year <- year(chem.recent.long$sampleDate)
+#chem.recent.long <- chem.raw[year(chem.raw$sampleDate) >=2017,]
+#chem.recent.long$year <- year(chem.recent.long$sampleDate)
+chem.recent.long <- chem.raw[chem.raw$year >= 2017,]
 unique(chem.recent.long$name)
 unique(chem.recent.long$analyte)[order(unique(chem.recent.long$analyte))]
 
@@ -709,19 +710,23 @@ performance <- function(real, pred.prob, thresh = seq(from=0, to=1, by=0.01)){
 
 class.2017 <- performance(traindat2017$MicrocystinDetect, pred2017b)
 table(class.2017$pred.optim)
+table(class.2017$pred.optim, traindat2017$MicrocystinDetect)
 
 class.2018 <- performance(testdat2018$MicrocystinDetect, pred2018b)
 table(class.2018$pred.optim)
+table(class.2018$pred.optim, testdat2018$MicrocystinDetect)
 
 class.2019 <- performance(testdat2019$MicrocystinDetect, pred2019b)
 table(class.2019$pred.optim)
+table(class.2019$pred.optim, testdat2019$MicrocystinDetect)
 
 class.2020 <- performance(testdat2020$MicrocystinDetect, pred2020b)
 table(class.2020$pred.optim)
+table(class.2020$pred.optim, testdat2020$MicrocystinDetect)
 
 class.2021 <- performance(testdat2021$MicrocystinDetect, pred2021b)
 table(class.2021$pred.optim)
-
+table(class.2021$pred.optim, testdat2021$MicrocystinDetect)
 
 
 

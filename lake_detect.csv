@@ -1,0 +1,719 @@
+"","year","name","latitude","longitude","times_detect"
+"1",2017,"Arbor Lake Max Depth",41.73171,-92.73296,1
+"2",2017,"Arrowhead Lake (Pottawatamie)",41.43585,-95.59285,2
+"3",2017,"Arrowhead Lake (Sac)",42.29701,-95.05115,0
+"4",2017,"Avenue of the Saints Lake",42.71004,-92.53644,3
+"5",2017,"Badger Creek Max Depth",41.46989,-93.91087,1
+"6",2017,"Badger Lake",42.58629,-94.19244,0
+"7",2017,"Beaver Lake",41.53245,-94.21245,1
+"8",2017,"Beeds Lake",42.76982,-93.23766,1
+"9",2017,"Big Creek",41.79397,-93.73139,0
+"10",2017,"Big Hollow Lake",40.94365,-91.23695,0
+"11",2017,"Big Spirit Lake",43.48076,-95.08332,2
+"12",2017,"Black Hawk Lake",42.29675,-95.02829,1
+"13",2017,"Blue Lake",42.04409,-96.15928,0
+"14",2017,"Bob White Lake",40.7187,-93.40069,1
+"15",2017,"Briggs Woods Lake",42.43266,-93.79795,2
+"16",2017,"Browns Lake",42.30822,-96.32516,0
+"17",2017,"Brushy Creek Lake",42.38921,-93.98064,0
+"18",2017,"Carter Lake Max Depth",41.28941,-95.90475,0
+"19",2017,"Casey Lake",42.26496,-92.31108,1
+"20",2017,"Center Lake",43.41244,-95.13875,1
+"21",2017,"Clear Lake",43.12576,-93.41697,2
+"22",2017,"Cold Springs Lake",41.29187,-95.08747,1
+"23",2017,"Crawford Creek Lake",42.27581,-95.60692,0
+"24",2017,"Crystal Lake Max Depth",43.23027,-93.79239,3
+"25",2017,"DeSoto Bend Lake",41.53807,-95.99832,0
+"26",2017,"Diamond Lake",41.5847,-92.55604,0
+"27",2017,"Dog Creek Lake",42.93614,-95.46768,0
+"28",2017,"Don Williams Lake (maximum water depth)",42.11195,-94.01988,0
+"29",2017,"East Lake Osceola",41.0326,-93.74259,2
+"30",2017,"East Okoboji Lake",43.3831,-95.11483,2
+"31",2017,"Eldred Sherwood Lake",42.9414,-93.56476,0
+"32",2017,"Five Island Lake",43.14177,-94.66035,2
+"33",2017,"Fogle Lake",40.81419,-94.35081,2
+"34",2017,"George Wyth Lake",42.5343,-92.3958,1
+"35",2017,"Green Belt Lake",42.47885,-92.3888,0
+"36",2017,"Green Castle Lake",41.92967,-92.86022,0
+"37",2017,"Green Valley Lake",41.09737,-94.38349,2
+"38",2017,"Greenfield Lake",41.2982,-94.48133,0
+"39",2017,"Hannen Lake",41.86365,-92.11279,0
+"40",2017,"Hawthorne Lake",41.47619,-92.45886,0
+"41",2017,"Hickory Grove Lake (maximum water depth)",41.99036,-93.36369,0
+"42",2017,"Hooper Pond Lake",41.27764,-93.5902,1
+"43",2017,"Indian Lake (maximum water depth)",40.62909,-91.75078,0
+"44",2017,"Ingham Lake",43.31786,-94.70015,2
+"45",2017,"Lacey Keosauqua Lake",40.71123,-91.97002,0
+"46",2017,"Lake Ahquabi",41.29341,-93.5965,0
+"47",2017,"Lake Anita",41.42777,-94.78102,2
+"48",2017,"Lake Belva Deer",41.37763,-92.12331,2
+"49",2017,"Lake Cornelia (maximum water depth)",42.79134,-93.69034,1
+"50",2017,"Lake Darling Max Depth",41.20157,-91.90497,2
+"51",2017,"Lake Geode",40.81168,-91.3872,0
+"52",2017,"Lake Hendricks",43.37076,-92.54817,2
+"53",2017,"Lake Icaria",41.0479,-94.75194,2
+"54",2017,"Lake Iowa",41.63485,-92.17351,1
+"55",2017,"Lake Keomah",41.29513,-92.53818,2
+"56",2017,"Lake Macbride (maximum water depth)",41.79367,-91.57286,0
+"57",2017,"Lake Manawa",41.20503,-95.85757,1
+"58",2017,"Lake Meyer (maximum water depth)",43.17519,-91.91351,1
+"59",2017,"Lake Miami Max Depth",41.12152,-92.84398,1
+"60",2017,"Lake Minnewashta",43.3607,-95.12333,2
+"61",2017,"Lake of the Hills",41.52136,-90.6765,2
+"62",2017,"Lake of Three Fires Max Depth",40.70992,-94.6897,2
+"63",2017,"Lake Orient",41.19644,-94.43618,3
+"64",2017,"Lake Pahoja",43.3828,-96.47052,1
+"65",2017,"Lake Sugema",40.68328,-91.98754,0
+"66",2017,"Lake Wapello",40.81972,-92.57375,0
+"67",2017,"Little River Lake",40.75038,-93.77902,1
+"68",2017,"Little Sioux Park Lake",42.44672,-95.80236,0
+"69",2017,"Little Spirit Lake",43.51209,-95.12499,2
+"70",2017,"Little Wall Lake (maximum water depth)",42.2667,-93.63953,0
+"71",2017,"Littlefield Lake (maximum water depth)",41.55941,-94.78629,2
+"72",2017,"Lost Grove Lake",41.66943,-90.43548,1
+"73",2017,"Lost Island Lake",43.17549,-94.90192,0
+"74",2017,"Lower Gar Lake",43.35489,-95.12101,2
+"75",2017,"Lower Pine Lake",42.36657,-93.07776,0
+"76",2017,"Manteno Lake",41.85356,-95.46747,0
+"77",2017,"Mariposa Lake",41.77771,-92.96277,2
+"78",2017,"Meadow Lake",41.3871,-94.43754,3
+"79",2017,"Meyers Lake",42.46176,-92.28956,0
+"80",2017,"Mill Creek Lake",42.98488,-95.67121,1
+"81",2017,"Mitchell Lake",42.47722,-92.31408,0
+"82",2017,"Moorehead Lake",42.35754,-95.48027,1
+"83",2017,"Mormon Trail Lake",41.2428,-94.63568,0
+"84",2017,"Nelson Lake",41.93681,-95.58867,0
+"85",2017,"Nine Eagles Lake",40.59674,-93.7723,0
+"86",2017,"Nodaway Lake",41.28937,-94.49757,1
+"87",2017,"North Twin Lake (maximum water depth)",42.47687,-94.63802,1
+"88",2017,"Oldham Lake",42.00801,-95.78949,0
+"89",2017,"Otter Creek Lake",42.04309,-92.51989,1
+"90",2017,"Ottumwa Lagoon Max Depth",41.00692,-92.42805,0
+"91",2017,"Pierce Creek Lake",40.83131,-95.35775,1
+"92",2017,"Pleasant Creek Lake",42.12475,-91.81034,1
+"93",2017,"Poll Miller Park Lake",40.71265,-91.43595,0
+"94",2017,"Prairie Rose Lake",41.60132,-95.22749,2
+"95",2017,"Rathbun Lake",40.82497,-92.89401,1
+"96",2017,"Red Haw Lake",41.00068,-93.27194,0
+"97",2017,"Roberts Creek Lake",41.42159,-93.04923,2
+"98",2017,"Rock Creek Max Depth",41.73963,-92.85492,0
+"99",2017,"Rodgers Lake",42.20147,-92.07556,1
+"100",2017,"Rudd Lake",43.12571,-92.89189,0
+"101",2017,"Silver Lake (Palo Alto County)",43.03023,-94.88418,2
+"102",2017,"Silver Lake Max Depth",42.42363,-91.32668,1
+"103",2017,"Silver Lake Max Depth",43.43699,-95.33707,2
+"104",2017,"Slipbluff Lake",40.65377,-93.85292,0
+"105",2017,"Smith Lake",43.1234,-94.24147,3
+"106",2017,"Snyder Bend Lake",42.28161,-96.33555,0
+"107",2017,"South Prairie Lake",42.47783,-92.46016,1
+"108",2017,"Spring Lake Max Depth",42.06085,-94.28879,0
+"109",2017,"Springbrook Lake",41.77607,-94.4666,1
+"110",2017,"Storm Lake Max Depth",42.62157,-95.20419,0
+"111",2017,"Summit Lake",41.05996,-94.39648,1
+"112",2017,"Swan Lake Max Depth",42.03766,-94.84054,3
+"113",2017,"Thayer Lake",41.02162,-94.06568,0
+"114",2017,"Three Mile Lake",41.07138,-94.21299,1
+"115",2017,"Twelve Mile Lake",41.05572,-94.25503,2
+"116",2017,"Union Grove Lake",42.12521,-92.71887,1
+"117",2017,"Upper Gar Lake",43.36935,-95.12013,2
+"118",2017,"Upper Pine Lake",42.37371,-93.06644,2
+"119",2017,"Viking Lake",40.97617,-95.02991,2
+"120",2017,"Volga Lake (maximum water depth)",42.8957,-91.77085,1
+"121",2017,"West Lake Osceola",41.04001,-93.80528,0
+"122",2017,"West Okoboji Lake",43.3748,-95.14891,0
+"123",2017,"White Oak Lake",41.27389,-92.4762,1
+"124",2017,"Williamson Pond Max Depth",41.09644,-93.21548,2
+"125",2017,"Willow Lake",41.76936,-95.78895,0
+"126",2017,"Wilson Lake",40.83745,-94.54175,1
+"127",2017,"Windmill Lake",40.73104,-94.82708,0
+"128",2017,"Yellow Smoke Lake",42.02264,-95.3248,0
+"129",2018,"Ada Hayden Heritage Park Lake",42.06594,-93.6278,0
+"130",2018,"Arbor Lake Max Depth",41.73171,-92.73296,0
+"131",2018,"Arrowhead Lake (Pottawatamie)",41.43585,-95.59285,1
+"132",2018,"Arrowhead Lake (Sac)",42.29701,-95.05115,0
+"133",2018,"Avenue of the Saints Lake",42.71004,-92.53644,3
+"134",2018,"Badger Creek Max Depth",41.46989,-93.91087,2
+"135",2018,"Badger Lake",42.58629,-94.19244,1
+"136",2018,"Beaver Lake",41.53245,-94.21245,3
+"137",2018,"Beeds Lake",42.76982,-93.23766,0
+"138",2018,"Big Creek",41.79397,-93.73139,0
+"139",2018,"Big Hollow Lake",40.94365,-91.23695,0
+"140",2018,"Big Spirit Lake",43.48076,-95.08332,2
+"141",2018,"Black Hawk Lake",42.29675,-95.02829,1
+"142",2018,"Blue Lake",42.04409,-96.15928,0
+"143",2018,"Bob White Lake",40.7187,-93.40069,1
+"144",2018,"Briggs Woods Lake",42.43266,-93.79795,2
+"145",2018,"Browns Lake",42.30822,-96.32516,0
+"146",2018,"Brushy Creek Lake",42.38921,-93.98064,0
+"147",2018,"Carter Lake Max Depth",41.28941,-95.90475,0
+"148",2018,"Casey Lake",42.26496,-92.31108,0
+"149",2018,"Center Lake",43.41244,-95.13875,3
+"150",2018,"Clear Lake",43.12576,-93.41697,2
+"151",2018,"Cold Springs Lake",41.29187,-95.08747,1
+"152",2018,"Crawford Creek Lake",42.27581,-95.60692,2
+"153",2018,"Crystal Lake Max Depth",43.23027,-93.79239,2
+"154",2018,"DeSoto Bend Lake",41.53807,-95.99832,0
+"155",2018,"Diamond Lake",41.5847,-92.55604,0
+"156",2018,"Dog Creek Lake",42.93614,-95.46768,2
+"157",2018,"Don Williams Lake (maximum water depth)",42.11195,-94.01988,0
+"158",2018,"East Lake Osceola",41.0326,-93.74259,1
+"159",2018,"East Okoboji Lake",43.3831,-95.11483,2
+"160",2018,"Eldred Sherwood Lake",42.9414,-93.56476,0
+"161",2018,"Five Island Lake",43.14177,-94.66035,3
+"162",2018,"Fogle Lake",40.81419,-94.35081,0
+"163",2018,"George Wyth Lake",42.5343,-92.3958,1
+"164",2018,"Green Belt Lake",42.47885,-92.3888,0
+"165",2018,"Green Castle Lake",41.92967,-92.86022,0
+"166",2018,"Green Valley Lake",41.09737,-94.38349,3
+"167",2018,"Greenfield Lake",41.2982,-94.48133,0
+"168",2018,"Hannen Lake",41.86365,-92.11279,1
+"169",2018,"Hawthorne Lake",41.47619,-92.45886,0
+"170",2018,"Hickory Grove Lake (maximum water depth)",41.99036,-93.36369,1
+"171",2018,"Hooper Pond Lake",41.27764,-93.5902,0
+"172",2018,"Indian Lake (maximum water depth)",40.62909,-91.75078,0
+"173",2018,"Ingham Lake",43.31786,-94.70015,1
+"174",2018,"Lacey Keosauqua Lake",40.71123,-91.97002,0
+"175",2018,"Lake Ahquabi",41.29341,-93.5965,0
+"176",2018,"Lake Anita",41.42777,-94.78102,1
+"177",2018,"Lake Belva Deer",41.37763,-92.12331,0
+"178",2018,"Lake Cornelia (maximum water depth)",42.79134,-93.69034,3
+"179",2018,"Lake Darling Max Depth",41.20157,-91.90497,2
+"180",2018,"Lake Hendricks",43.37076,-92.54817,2
+"181",2018,"Lake Icaria",41.0479,-94.75194,1
+"182",2018,"Lake Iowa",41.63485,-92.17351,1
+"183",2018,"Lake Keomah",41.29513,-92.53818,1
+"184",2018,"Lake Macbride (maximum water depth)",41.79367,-91.57286,1
+"185",2018,"Lake Manawa",41.20503,-95.85757,1
+"186",2018,"Lake Meyer (maximum water depth)",43.17519,-91.91351,0
+"187",2018,"Lake Miami Max Depth",41.12152,-92.84398,0
+"188",2018,"Lake Minnewashta",43.3607,-95.12333,2
+"189",2018,"Lake of the Hills",41.52136,-90.6765,0
+"190",2018,"Lake of Three Fires Max Depth",40.70992,-94.6897,1
+"191",2018,"Lake Orient",41.19644,-94.43618,1
+"192",2018,"Lake Pahoja",43.3828,-96.47052,0
+"193",2018,"Lake Sugema",40.68328,-91.98754,0
+"194",2018,"Lake Wapello",40.81972,-92.57375,0
+"195",2018,"Little River Lake",40.75038,-93.77902,0
+"196",2018,"Little Sioux Park Lake",42.44672,-95.80236,0
+"197",2018,"Little Spirit Lake",43.51209,-95.12499,1
+"198",2018,"Little Wall Lake (maximum water depth)",42.2667,-93.63953,0
+"199",2018,"Littlefield Lake (maximum water depth)",41.55941,-94.78629,2
+"200",2018,"Lost Grove Lake",41.66943,-90.43548,0
+"201",2018,"Lost Island Lake",43.17549,-94.90192,1
+"202",2018,"Lower Gar Lake",43.35489,-95.12101,2
+"203",2018,"Lower Pine Lake",42.36657,-93.07776,0
+"204",2018,"Manteno Lake",41.85356,-95.46747,0
+"205",2018,"Meadow Lake",41.3871,-94.43754,1
+"206",2018,"Meyers Lake",42.46176,-92.28956,0
+"207",2018,"Mill Creek Lake",42.98488,-95.67121,1
+"208",2018,"Mitchell Lake",42.47722,-92.31408,0
+"209",2018,"Moorehead Lake",42.35754,-95.48027,0
+"210",2018,"Mormon Trail Lake",41.2428,-94.63568,0
+"211",2018,"Nelson Lake",41.93681,-95.58867,0
+"212",2018,"Nine Eagles Lake",40.59674,-93.7723,0
+"213",2018,"Nodaway Lake",41.28937,-94.49757,0
+"214",2018,"North Twin Lake (maximum water depth)",42.47687,-94.63802,2
+"215",2018,"Oldham Lake",42.00801,-95.78949,1
+"216",2018,"Otter Creek Lake",42.04309,-92.51989,0
+"217",2018,"Ottumwa Lagoon Max Depth",41.00692,-92.42805,0
+"218",2018,"Pierce Creek Lake",40.83131,-95.35775,0
+"219",2018,"Pleasant Creek Lake",42.12475,-91.81034,0
+"220",2018,"Poll Miller Park Lake",40.71265,-91.43595,0
+"221",2018,"Prairie Rose Lake",41.60132,-95.22749,1
+"222",2018,"Rathbun Lake",40.82497,-92.89401,0
+"223",2018,"Red Haw Lake",41.00068,-93.27194,0
+"224",2018,"Roberts Creek Lake",41.42159,-93.04923,1
+"225",2018,"Rock Creek Max Depth",41.73963,-92.85492,1
+"226",2018,"Rodgers Lake",42.20147,-92.07556,2
+"227",2018,"Rudd Lake",43.12571,-92.89189,0
+"228",2018,"Silver Lake (Palo Alto County)",43.03023,-94.88418,2
+"229",2018,"Silver Lake Max Depth",42.42363,-91.32668,0
+"230",2018,"Silver Lake Max Depth",43.43699,-95.33707,2
+"231",2018,"Slipbluff Lake",40.65377,-93.85292,0
+"232",2018,"Smith Lake",43.1234,-94.24147,1
+"233",2018,"Snyder Bend Lake",42.28161,-96.33555,0
+"234",2018,"South Prairie Lake",42.47783,-92.46016,0
+"235",2018,"Spring Lake Max Depth",42.06085,-94.28879,0
+"236",2018,"Springbrook Lake",41.77607,-94.4666,0
+"237",2018,"Storm Lake Max Depth",42.62157,-95.20419,0
+"238",2018,"Summit Lake",41.05996,-94.39648,2
+"239",2018,"Swan Lake Max Depth",42.03766,-94.84054,2
+"240",2018,"Thayer Lake",41.02162,-94.06568,0
+"241",2018,"Three Mile Lake",41.07138,-94.21299,1
+"242",2018,"Twelve Mile Lake",41.05572,-94.25503,2
+"243",2018,"Union Grove Lake",42.12521,-92.71887,1
+"244",2018,"Upper Gar Lake",43.36935,-95.12013,2
+"245",2018,"Upper Pine Lake",42.37371,-93.06644,0
+"246",2018,"Viking Lake",40.97617,-95.02991,2
+"247",2018,"Volga Lake (maximum water depth)",42.8957,-91.77085,2
+"248",2018,"West Lake Osceola",41.04001,-93.80528,0
+"249",2018,"West Okoboji Lake",43.3748,-95.14891,0
+"250",2018,"White Oak Lake",41.27389,-92.4762,1
+"251",2018,"Williamson Pond Max Depth",41.09644,-93.21548,0
+"252",2018,"Willow Lake",41.76936,-95.78895,0
+"253",2018,"Wilson Lake",40.83745,-94.54175,1
+"254",2018,"Windmill Lake",40.73104,-94.82708,0
+"255",2018,"Yellow Smoke Lake",42.02264,-95.3248,0
+"256",2019,"Ada Hayden Heritage Park Lake",42.06594,-93.6278,0
+"257",2019,"Arbor Lake Max Depth",41.73171,-92.73296,2
+"258",2019,"Arrowhead Lake (Pottawatamie)",41.43585,-95.59285,2
+"259",2019,"Arrowhead Lake (Sac)",42.29701,-95.05115,0
+"260",2019,"Avenue of the Saints Lake",42.71004,-92.53644,1
+"261",2019,"Badger Creek Max Depth",41.46989,-93.91087,2
+"262",2019,"Badger Lake",42.58629,-94.19244,0
+"263",2019,"Beaver Lake",41.53245,-94.21245,2
+"264",2019,"Beeds Lake",42.76982,-93.23766,2
+"265",2019,"Big Creek",41.79397,-93.73139,0
+"266",2019,"Big Hollow Lake",40.94365,-91.23695,3
+"267",2019,"Big Spirit Lake",43.48076,-95.08332,2
+"268",2019,"Black Hawk Lake",42.29675,-95.02829,1
+"269",2019,"Blue Lake",42.04409,-96.15928,0
+"270",2019,"Bob White Lake",40.7187,-93.40069,0
+"271",2019,"Briggs Woods Lake",42.43266,-93.79795,2
+"272",2019,"Browns Lake",42.30822,-96.32516,0
+"273",2019,"Brushy Creek Lake",42.38921,-93.98064,0
+"274",2019,"Carter Lake Max Depth",41.28941,-95.90475,0
+"275",2019,"Casey Lake",42.26496,-92.31108,1
+"276",2019,"Center Lake",43.41244,-95.13875,1
+"277",2019,"Central Park Lake",42.11253,-91.1373,1
+"278",2019,"Clear Lake",43.12576,-93.41697,2
+"279",2019,"Cold Springs Lake",41.29187,-95.08747,0
+"280",2019,"Crawford Creek Lake",42.27581,-95.60692,1
+"281",2019,"Crystal Lake Max Depth",43.23027,-93.79239,3
+"282",2019,"DeSoto Bend Lake",41.53807,-95.99832,0
+"283",2019,"Diamond Lake",41.5847,-92.55604,1
+"284",2019,"Dog Creek Lake",42.93614,-95.46768,1
+"285",2019,"Don Williams Lake (maximum water depth)",42.11195,-94.01988,0
+"286",2019,"East Lake Osceola",41.0326,-93.74259,1
+"287",2019,"East Okoboji Lake",43.3831,-95.11483,2
+"288",2019,"Easter Lake (maximum water depth)",41.54539,-93.55688,0
+"289",2019,"Eldred Sherwood Lake",42.9414,-93.56476,0
+"290",2019,"Five Island Lake",43.14177,-94.66035,2
+"291",2019,"Fogle Lake",40.81419,-94.35081,2
+"292",2019,"George Wyth Lake",42.5343,-92.3958,1
+"293",2019,"Green Belt Lake",42.47885,-92.3888,0
+"294",2019,"Green Castle Lake",41.92967,-92.86022,2
+"295",2019,"Green Valley Lake",41.09737,-94.38349,2
+"296",2019,"Greenfield Lake",41.2982,-94.48133,1
+"297",2019,"Hannen Lake",41.86365,-92.11279,2
+"298",2019,"Hawthorne Lake",41.47619,-92.45886,1
+"299",2019,"Hooper Pond Lake",41.27764,-93.5902,1
+"300",2019,"Indian Lake (maximum water depth)",40.62909,-91.75078,0
+"301",2019,"Ingham Lake",43.31786,-94.70015,1
+"302",2019,"Kent Park Lake",41.72342,-91.73032,1
+"303",2019,"Lacey Keosauqua Lake",40.71123,-91.97002,0
+"304",2019,"Lake Ahquabi",41.29341,-93.5965,0
+"305",2019,"Lake Anita",41.42777,-94.78102,1
+"306",2019,"Lake Belva Deer",41.37763,-92.12331,2
+"307",2019,"Lake Cornelia (maximum water depth)",42.79134,-93.69034,2
+"308",2019,"Lake Darling Max Depth",41.20157,-91.90497,2
+"309",2019,"Lake Hendricks",43.37076,-92.54817,1
+"310",2019,"Lake Icaria",41.0479,-94.75194,2
+"311",2019,"Lake Iowa",41.63485,-92.17351,1
+"312",2019,"Lake Keomah",41.29513,-92.53818,2
+"313",2019,"Lake Macbride (maximum water depth)",41.79367,-91.57286,1
+"314",2019,"Lake Manawa",41.20503,-95.85757,2
+"315",2019,"Lake Meyer (maximum water depth)",43.17519,-91.91351,1
+"316",2019,"Lake Miami Max Depth",41.12152,-92.84398,2
+"317",2019,"Lake Minnewashta",43.3607,-95.12333,2
+"318",2019,"Lake of the Hills",41.52136,-90.6765,0
+"319",2019,"Lake of Three Fires Max Depth",40.70992,-94.6897,3
+"320",2019,"Lake Orient",41.19644,-94.43618,2
+"321",2019,"Lake Pahoja",43.3828,-96.47052,0
+"322",2019,"Lake Sugema",40.68328,-91.98754,0
+"323",2019,"Lake Wapello",40.81972,-92.57375,0
+"324",2019,"Little River Lake",40.75038,-93.77902,2
+"325",2019,"Little Sioux Park Lake",42.44672,-95.80236,0
+"326",2019,"Little Spirit Lake",43.51209,-95.12499,1
+"327",2019,"Little Wall Lake (maximum water depth)",42.2667,-93.63953,0
+"328",2019,"Littlefield Lake (maximum water depth)",41.55941,-94.78629,2
+"329",2019,"Lost Grove Lake",41.66943,-90.43548,1
+"330",2019,"Lost Island Lake",43.17549,-94.90192,1
+"331",2019,"Lower Gar Lake",43.35489,-95.12101,2
+"332",2019,"Lower Pine Lake",42.36657,-93.07776,0
+"333",2019,"Manteno Lake",41.85356,-95.46747,0
+"334",2019,"Meadow Lake",41.3871,-94.43754,2
+"335",2019,"Meyers Lake",42.46176,-92.28956,1
+"336",2019,"Mill Creek Lake",42.98488,-95.67121,0
+"337",2019,"Mitchell Lake",42.47722,-92.31408,0
+"338",2019,"Moorehead Lake",42.35754,-95.48027,0
+"339",2019,"Mormon Trail Lake",41.2428,-94.63568,0
+"340",2019,"Nelson Lake",41.93681,-95.58867,0
+"341",2019,"Nine Eagles Lake",40.59674,-93.7723,0
+"342",2019,"Nodaway Lake",41.28937,-94.49757,0
+"343",2019,"North Twin Lake (maximum water depth)",42.47687,-94.63802,2
+"344",2019,"Oldham Lake",42.00801,-95.78949,0
+"345",2019,"Otter Creek Lake",42.04309,-92.51989,1
+"346",2019,"Ottumwa Lagoon Max Depth",41.00692,-92.42805,0
+"347",2019,"Pierce Creek Lake",40.83131,-95.35775,0
+"348",2019,"Pleasant Creek Lake",42.12475,-91.81034,1
+"349",2019,"Poll Miller Park Lake",40.71265,-91.43595,0
+"350",2019,"Prairie Rose Lake",41.60132,-95.22749,0
+"351",2019,"Rathbun Lake",40.82497,-92.89401,0
+"352",2019,"Red Haw Lake",41.00068,-93.27194,0
+"353",2019,"Roberts Creek Lake",41.42159,-93.04923,1
+"354",2019,"Rock Creek Max Depth",41.73963,-92.85492,2
+"355",2019,"Rodgers Lake",42.20147,-92.07556,1
+"356",2019,"Rudd Lake",43.12571,-92.89189,0
+"357",2019,"Silver Lake (Palo Alto County)",43.03023,-94.88418,0
+"358",2019,"Silver Lake Max Depth",42.42363,-91.32668,1
+"359",2019,"Silver Lake Max Depth",43.43699,-95.33707,1
+"360",2019,"Slipbluff Lake",40.65377,-93.85292,0
+"361",2019,"Smith Lake",43.1234,-94.24147,0
+"362",2019,"Snyder Bend Lake",42.28161,-96.33555,0
+"363",2019,"South Prairie Lake",42.47783,-92.46016,1
+"364",2019,"Spring Lake Max Depth",42.06085,-94.28879,0
+"365",2019,"Springbrook Lake",41.77607,-94.4666,0
+"366",2019,"Storm Lake Max Depth",42.62157,-95.20419,0
+"367",2019,"Summit Lake",41.05996,-94.39648,2
+"368",2019,"Swan Lake Max Depth",42.03766,-94.84054,2
+"369",2019,"Thayer Lake",41.02162,-94.06568,1
+"370",2019,"Three Mile Lake",41.07138,-94.21299,1
+"371",2019,"Twelve Mile Lake",41.05572,-94.25503,1
+"372",2019,"Union Grove Lake",42.12521,-92.71887,1
+"373",2019,"Upper Gar Lake",43.36935,-95.12013,2
+"374",2019,"Upper Pine Lake",42.37371,-93.06644,0
+"375",2019,"Viking Lake",40.97617,-95.02991,0
+"376",2019,"Volga Lake (maximum water depth)",42.8957,-91.77085,1
+"377",2019,"West Lake Osceola",41.04001,-93.80528,0
+"378",2019,"West Okoboji Lake",43.3748,-95.14891,1
+"379",2019,"White Oak Lake",41.27389,-92.4762,1
+"380",2019,"Williamson Pond Max Depth",41.09644,-93.21548,1
+"381",2019,"Willow Lake",41.76936,-95.78895,1
+"382",2019,"Wilson Lake",40.83745,-94.54175,2
+"383",2019,"Windmill Lake",40.73104,-94.82708,1
+"384",2019,"Yellow Smoke Lake",42.02264,-95.3248,0
+"385",2020,"Ada Hayden Heritage Park Lake",42.06594,-93.6278,0
+"386",2020,"Arrowhead Lake (Sac)",42.29701,-95.05115,1
+"387",2020,"Badger Creek Max Depth",41.46989,-93.91087,1
+"388",2020,"Badger Lake",42.58629,-94.19244,0
+"389",2020,"Beaver Lake",41.53245,-94.21245,2
+"390",2020,"Beeds Lake",42.76982,-93.23766,0
+"391",2020,"Big Creek",41.79397,-93.73139,0
+"392",2020,"Black Hawk Lake",42.29675,-95.02829,0
+"393",2020,"Briggs Woods Lake",42.43266,-93.79795,1
+"394",2020,"Brushy Creek Lake",42.38921,-93.98064,0
+"395",2020,"Casey Lake",42.26496,-92.31108,0
+"396",2020,"Clear Lake",43.12576,-93.41697,1
+"397",2020,"Cold Springs Lake",41.29187,-95.08747,1
+"398",2020,"Crawford Creek Lake",42.27581,-95.60692,2
+"399",2020,"Crystal Lake Max Depth",43.23027,-93.79239,2
+"400",2020,"Diamond Lake",41.5847,-92.55604,0
+"401",2020,"Don Williams Lake (maximum water depth)",42.11195,-94.01988,0
+"402",2020,"East Lake Osceola",41.0326,-93.74259,3
+"403",2020,"Easter Lake (maximum water depth)",41.54539,-93.55688,0
+"404",2020,"George Wyth Lake",42.5343,-92.3958,1
+"405",2020,"Green Valley Lake",41.09737,-94.38349,1
+"406",2020,"Greenfield Lake",41.2982,-94.48133,0
+"407",2020,"Hannen Lake",41.86365,-92.11279,1
+"408",2020,"Hawthorne Lake",41.47619,-92.45886,0
+"409",2020,"Hooper Pond Lake",41.27764,-93.5902,0
+"410",2020,"Kent Park Lake",41.72342,-91.73032,0
+"411",2020,"Lake Ahquabi",41.29341,-93.5965,0
+"412",2020,"Lake Anita",41.42777,-94.78102,1
+"413",2020,"Lake Belva Deer",41.37763,-92.12331,2
+"414",2020,"Lake Cornelia (maximum water depth)",42.79134,-93.69034,2
+"415",2020,"Lake Icaria",41.0479,-94.75194,1
+"416",2020,"Lake Iowa",41.63485,-92.17351,2
+"417",2020,"Lake Keomah",41.29513,-92.53818,1
+"418",2020,"Lake Macbride (maximum water depth)",41.79367,-91.57286,0
+"419",2020,"Lake Miami Max Depth",41.12152,-92.84398,2
+"420",2020,"Lake Orient",41.19644,-94.43618,3
+"421",2020,"Little Wall Lake (maximum water depth)",42.2667,-93.63953,0
+"422",2020,"Littlefield Lake (maximum water depth)",41.55941,-94.78629,1
+"423",2020,"Lost Grove Lake",41.66943,-90.43548,0
+"424",2020,"Lower Pine Lake",42.36657,-93.07776,0
+"425",2020,"Manteno Lake",41.85356,-95.46747,0
+"426",2020,"Mariposa Lake",41.77771,-92.96277,0
+"427",2020,"Meadow Lake",41.3871,-94.43754,1
+"428",2020,"Meyers Lake",42.46176,-92.28956,1
+"429",2020,"Mitchell Lake",42.47722,-92.31408,0
+"430",2020,"Mormon Trail Lake",41.2428,-94.63568,0
+"431",2020,"Nelson Lake",41.93681,-95.58867,0
+"432",2020,"Nodaway Lake",41.28937,-94.49757,0
+"433",2020,"North Twin Lake (maximum water depth)",42.47687,-94.63802,1
+"434",2020,"Otter Creek Lake",42.04309,-92.51989,1
+"435",2020,"Pleasant Creek Lake",42.12475,-91.81034,0
+"436",2020,"Prairie Rose Lake",41.60132,-95.22749,0
+"437",2020,"Red Haw Lake",41.00068,-93.27194,0
+"438",2020,"Roberts Creek Lake",41.42159,-93.04923,0
+"439",2020,"Rock Creek Max Depth",41.73963,-92.85492,1
+"440",2020,"Rodgers Lake",42.20147,-92.07556,0
+"441",2020,"South Prairie Lake",42.47783,-92.46016,1
+"442",2020,"Storm Lake Max Depth",42.62157,-95.20419,0
+"443",2020,"Summit Lake",41.05996,-94.39648,2
+"444",2020,"Swan Lake Max Depth",42.03766,-94.84054,3
+"445",2020,"Three Mile Lake",41.07138,-94.21299,1
+"446",2020,"Twelve Mile Lake",41.05572,-94.25503,2
+"447",2020,"Union Grove Lake",42.12521,-92.71887,2
+"448",2020,"Upper Pine Lake",42.37371,-93.06644,1
+"449",2020,"West Lake Osceola",41.04001,-93.80528,0
+"450",2020,"White Oak Lake",41.27389,-92.4762,0
+"451",2020,"Yellow Smoke Lake",42.02264,-95.3248,0
+"452",2021,"Ada Hayden Heritage Park Lake",42.06594,-93.6278,0
+"453",2021,"Arbor Lake Max Depth",41.73171,-92.73296,1
+"454",2021,"Arrowhead Lake (Pottawatamie)",41.43585,-95.59285,0
+"455",2021,"Arrowhead Lake (Sac)",42.29701,-95.05115,2
+"456",2021,"Avenue of the Saints Lake",42.71004,-92.53644,0
+"457",2021,"Badger Creek Max Depth",41.46989,-93.91087,0
+"458",2021,"Badger Lake",42.58629,-94.19244,0
+"459",2021,"Beaver Lake",41.53245,-94.21245,1
+"460",2021,"Beeds Lake",42.76982,-93.23766,2
+"461",2021,"Big Creek",41.79397,-93.73139,0
+"462",2021,"Big Hollow Lake",40.94365,-91.23695,0
+"463",2021,"Big Spirit Lake",43.48076,-95.08332,1
+"464",2021,"Black Hawk Lake",42.29675,-95.02829,0
+"465",2021,"Blue Lake",42.04409,-96.15928,0
+"466",2021,"Bob White Lake",40.7187,-93.40069,2
+"467",2021,"Briggs Woods Lake",42.43266,-93.79795,2
+"468",2021,"Browns Lake",42.30822,-96.32516,1
+"469",2021,"Brushy Creek Lake",42.38921,-93.98064,0
+"470",2021,"Carter Lake Max Depth",41.28941,-95.90475,0
+"471",2021,"Casey Lake",42.26496,-92.31108,0
+"472",2021,"Cedar Lake",41.99107,-91.66545,0
+"473",2021,"Center Lake",43.41244,-95.13875,2
+"474",2021,"Central Park Lake",42.11253,-91.1373,0
+"475",2021,"Clear Lake",43.12576,-93.41697,3
+"476",2021,"Cold Springs Lake",41.29187,-95.08747,0
+"477",2021,"Crawford Creek Lake",42.27581,-95.60692,1
+"478",2021,"Crystal Lake Max Depth",43.23027,-93.79239,2
+"479",2021,"DeSoto Bend Lake",41.53807,-95.99832,0
+"480",2021,"Diamond Lake",41.5847,-92.55604,1
+"481",2021,"Dog Creek Lake",42.93614,-95.46768,0
+"482",2021,"Don Williams Lake (maximum water depth)",42.11195,-94.01988,0
+"483",2021,"East Lake Osceola",41.0326,-93.74259,0
+"484",2021,"East Okoboji Lake",43.3831,-95.11483,1
+"485",2021,"Easter Lake (maximum water depth)",41.54539,-93.55688,0
+"486",2021,"Eldred Sherwood Lake",42.9414,-93.56476,0
+"487",2021,"Five Island Lake",43.14177,-94.66035,2
+"488",2021,"Fogle Lake",40.81419,-94.35081,0
+"489",2021,"George Wyth Lake",42.5343,-92.3958,1
+"490",2021,"Green Belt Lake",42.47885,-92.3888,1
+"491",2021,"Green Castle Lake",41.92967,-92.86022,0
+"492",2021,"Green Valley Lake",41.09737,-94.38349,2
+"493",2021,"Greenfield Lake",41.2982,-94.48133,0
+"494",2021,"Hannen Lake",41.86365,-92.11279,0
+"495",2021,"Hawthorne Lake",41.47619,-92.45886,0
+"496",2021,"Hooper Pond Lake",41.27764,-93.5902,1
+"497",2021,"Indian Lake (maximum water depth)",40.62909,-91.75078,0
+"498",2021,"Ingham Lake",43.31786,-94.70015,0
+"499",2021,"Kent Park Lake",41.72342,-91.73032,0
+"500",2021,"Lacey Keosauqua Lake",40.71123,-91.97002,0
+"501",2021,"Lake Ahquabi",41.29341,-93.5965,0
+"502",2021,"Lake Anita",41.42777,-94.78102,1
+"503",2021,"Lake Belva Deer",41.37763,-92.12331,0
+"504",2021,"Lake Cornelia (maximum water depth)",42.79134,-93.69034,3
+"505",2021,"Lake Darling Max Depth",41.20157,-91.90497,3
+"506",2021,"Lake Geode",40.81168,-91.3872,1
+"507",2021,"Lake Hendricks",43.37076,-92.54817,2
+"508",2021,"Lake Icaria",41.0479,-94.75194,1
+"509",2021,"Lake Iowa",41.63485,-92.17351,3
+"510",2021,"Lake Keomah",41.29513,-92.53818,0
+"511",2021,"Lake Macbride (maximum water depth)",41.79367,-91.57286,0
+"512",2021,"Lake Manawa",41.20503,-95.85757,1
+"513",2021,"Lake Meyer (maximum water depth)",43.17519,-91.91351,0
+"514",2021,"Lake Miami Max Depth",41.12152,-92.84398,3
+"515",2021,"Lake Minnewashta",43.3607,-95.12333,1
+"516",2021,"Lake of Three Fires Max Depth",40.70992,-94.6897,1
+"517",2021,"Lake Orient",41.19644,-94.43618,2
+"518",2021,"Lake Pahoja",43.3828,-96.47052,0
+"519",2021,"Lake Sugema",40.68328,-91.98754,2
+"520",2021,"Lake Wapello",40.81972,-92.57375,0
+"521",2021,"Little River Lake",40.75038,-93.77902,2
+"522",2021,"Little Sioux Park Lake",42.44672,-95.80236,0
+"523",2021,"Little Spirit Lake",43.51209,-95.12499,0
+"524",2021,"Little Wall Lake (maximum water depth)",42.2667,-93.63953,0
+"525",2021,"Littlefield Lake (maximum water depth)",41.55941,-94.78629,3
+"526",2021,"Lost Grove Lake",41.66943,-90.43548,1
+"527",2021,"Lost Island Lake",43.17549,-94.90192,1
+"528",2021,"Lower Gar Lake",43.35489,-95.12101,0
+"529",2021,"Lower Pine Lake",42.36657,-93.07776,2
+"530",2021,"Manteno Lake",41.85356,-95.46747,0
+"531",2021,"Mariposa Lake",41.77771,-92.96277,0
+"532",2021,"Meadow Lake",41.3871,-94.43754,2
+"533",2021,"Meyers Lake",42.46176,-92.28956,2
+"534",2021,"Mill Creek Lake",42.98488,-95.67121,0
+"535",2021,"Mitchell Lake (Deep point)",42.47722,-92.31408,0
+"536",2021,"Moorehead Lake",42.35754,-95.48027,0
+"537",2021,"Mormon Trail Lake",41.2428,-94.63568,0
+"538",2021,"Nelson Lake",41.93681,-95.58867,0
+"539",2021,"Nine Eagles Lake",40.59674,-93.7723,0
+"540",2021,"Nodaway Lake",41.28937,-94.49757,0
+"541",2021,"North Twin Lake (maximum water depth)",42.47687,-94.63802,3
+"542",2021,"Oldham Lake",42.00801,-95.78949,0
+"543",2021,"Otter Creek Lake",42.04309,-92.51989,0
+"544",2021,"Ottumwa Lagoon Max Depth",41.00692,-92.42805,0
+"545",2021,"Pierce Creek Lake",40.83131,-95.35775,0
+"546",2021,"Pleasant Creek Lake",42.12475,-91.81034,0
+"547",2021,"Poll Miller Park Lake",40.71265,-91.43595,0
+"548",2021,"Prairie Rose Lake",41.60132,-95.22749,2
+"549",2021,"Rathbun Lake",40.82497,-92.89401,0
+"550",2021,"Red Haw Lake",41.00068,-93.27194,0
+"551",2021,"Roberts Creek Lake",41.42159,-93.04923,1
+"552",2021,"Rock Creek Max Depth",41.73963,-92.85492,2
+"553",2021,"Rodgers Lake",42.20147,-92.07556,1
+"554",2021,"Rudd Lake",43.12571,-92.89189,0
+"555",2021,"Silver Lake (Palo Alto County)",43.03023,-94.88418,0
+"556",2021,"Silver Lake Max Depth",42.42363,-91.32668,0
+"557",2021,"Silver Lake Max Depth",43.43699,-95.33707,1
+"558",2021,"Slipbluff Lake",40.65377,-93.85292,0
+"559",2021,"Smith Lake",43.1234,-94.24147,1
+"560",2021,"South Prairie Lake",42.47783,-92.46016,0
+"561",2021,"Spring Lake Max Depth",42.06085,-94.28879,1
+"562",2021,"Springbrook Lake",41.77607,-94.4666,0
+"563",2021,"Storm Lake Max Depth",42.62157,-95.20419,0
+"564",2021,"Summit Lake",41.05996,-94.39648,1
+"565",2021,"Swan Lake Max Depth",42.03766,-94.84054,3
+"566",2021,"Thayer Lake",41.02162,-94.06568,0
+"567",2021,"Three Mile Lake",41.07138,-94.21299,0
+"568",2021,"Twelve Mile Lake",41.05572,-94.25503,2
+"569",2021,"Union Grove Lake",42.12521,-92.71887,0
+"570",2021,"Upper Gar Lake",43.36935,-95.12013,0
+"571",2021,"Upper Pine Lake",42.37371,-93.06644,0
+"572",2021,"Viking Lake",40.97617,-95.02991,0
+"573",2021,"West Lake Okoboji - Emerson Bay",43.35968,-95.16862,0
+"574",2021,"West Lake Okoboji - Main Basin North",43.40923,-95.16792,0
+"575",2021,"West Lake Okoboji - Millers Bay",43.3788,-95.17479,0
+"576",2021,"West Lake Okoboji - Smiths Bay",43.37205,-95.13489,0
+"577",2021,"West Lake Osceola",41.04001,-93.80528,0
+"578",2021,"West Okoboji Lake",43.3748,-95.14891,0
+"579",2021,"White Oak Lake",41.27389,-92.4762,0
+"580",2021,"Williamson Pond Max Depth",41.09644,-93.21548,0
+"581",2021,"Willow Lake",41.76936,-95.78895,0
+"582",2021,"Wilson Lake",40.83745,-94.54175,0
+"583",2021,"Windmill Lake",40.73104,-94.82708,0
+"584",2021,"Yellow Smoke Lake",42.02264,-95.3248,0
+"585",2022,"Arbor Lake Max Depth",41.73171,-92.73296,2
+"586",2022,"Arrowhead Lake (Pottawatamie)",41.43585,-95.59285,3
+"587",2022,"Arrowhead Lake (Sac)",42.29701,-95.05115,0
+"588",2022,"Avenue of the Saints Lake",42.71004,-92.53644,0
+"589",2022,"Badger Creek Max Depth",41.46989,-93.91087,3
+"590",2022,"Badger Lake",42.58629,-94.19244,0
+"591",2022,"Beaver Lake",41.53245,-94.21245,2
+"592",2022,"Beeds Lake",42.76982,-93.23766,0
+"593",2022,"Big Creek",41.79397,-93.73139,0
+"594",2022,"Big Hollow Lake",40.94365,-91.23695,0
+"595",2022,"Big Spirit Lake",43.48076,-95.08332,1
+"596",2022,"Black Hawk Lake",42.29675,-95.02829,0
+"597",2022,"Blue Lake",42.04409,-96.15928,1
+"598",2022,"Bob White Lake",40.7187,-93.40069,0
+"599",2022,"Briggs Woods Lake",42.43266,-93.79795,1
+"600",2022,"Browns Lake",42.30822,-96.32516,0
+"601",2022,"Brushy Creek Lake",42.38921,-93.98064,0
+"602",2022,"Carter Lake Max Depth",41.28941,-95.90475,0
+"603",2022,"Casey Lake",42.26496,-92.31108,0
+"604",2022,"Cedar Lake",41.99107,-91.66545,1
+"605",2022,"Center Lake",43.41244,-95.13875,2
+"606",2022,"Central Park Lake",42.11253,-91.1373,1
+"607",2022,"Clear Lake",43.12576,-93.41697,1
+"608",2022,"Cold Springs Lake",41.29187,-95.08747,0
+"609",2022,"Crawford Creek Lake",42.27581,-95.60692,1
+"610",2022,"Crystal Lake Max Depth",43.23027,-93.79239,1
+"611",2022,"DeSoto Bend Lake",41.53807,-95.99832,0
+"612",2022,"Diamond Lake",41.5847,-92.55604,1
+"613",2022,"Dog Creek Lake",42.93614,-95.46768,1
+"614",2022,"Don Williams Lake (maximum water depth)",42.11195,-94.01988,0
+"615",2022,"East Lake Osceola",41.0326,-93.74259,0
+"616",2022,"East Okoboji Lake",43.3831,-95.11483,1
+"617",2022,"Easter Lake (maximum water depth)",41.54539,-93.55688,0
+"618",2022,"Eldred Sherwood Lake",42.9414,-93.56476,0
+"619",2022,"Five Island Lake",43.14177,-94.66035,1
+"620",2022,"Fogle Lake",40.81419,-94.35081,0
+"621",2022,"George Wyth Lake",42.5343,-92.3958,0
+"622",2022,"Green Belt Lake",42.47885,-92.3888,0
+"623",2022,"Green Castle Lake",41.92967,-92.86022,0
+"624",2022,"Green Valley Lake",41.09737,-94.38349,3
+"625",2022,"Greenfield Lake",41.2982,-94.48133,0
+"626",2022,"Hannen Lake",41.86365,-92.11279,1
+"627",2022,"Hawthorne Lake",41.47619,-92.45886,3
+"628",2022,"Hickory Grove Lake (maximum water depth)",41.99036,-93.36369,0
+"629",2022,"Hooper Pond Lake",41.27764,-93.5902,1
+"630",2022,"Indian Lake (maximum water depth)",40.62909,-91.75078,0
+"631",2022,"Ingham Lake",43.31786,-94.70015,0
+"632",2022,"Kent Park Lake",41.72342,-91.73032,0
+"633",2022,"Lacey Keosauqua Lake",40.71123,-91.97002,0
+"634",2022,"Lake Anita",41.42777,-94.78102,3
+"635",2022,"Lake Belva Deer",41.37763,-92.12331,0
+"636",2022,"Lake Cornelia (maximum water depth)",42.79134,-93.69034,0
+"637",2022,"Lake Darling Max Depth",41.20157,-91.90497,1
+"638",2022,"Lake Geode",40.81168,-91.3872,1
+"639",2022,"Lake Hendricks",43.37076,-92.54817,1
+"640",2022,"Lake Icaria",41.0479,-94.75194,0
+"641",2022,"Lake Iowa",41.63485,-92.17351,3
+"642",2022,"Lake Keomah",41.29513,-92.53818,0
+"643",2022,"Lake Macbride (maximum water depth)",41.79367,-91.57286,1
+"644",2022,"Lake Manawa",41.20503,-95.85757,2
+"645",2022,"Lake Meyer (maximum water depth)",43.17519,-91.91351,0
+"646",2022,"Lake Miami Max Depth",41.12152,-92.84398,0
+"647",2022,"Lake Minnewashta",43.3607,-95.12333,1
+"648",2022,"Lake of the Hills",41.52136,-90.6765,0
+"649",2022,"Lake of Three Fires Max Depth",40.70992,-94.6897,2
+"650",2022,"Lake Orient",41.19644,-94.43618,2
+"651",2022,"Lake Pahoja",43.3828,-96.47052,1
+"652",2022,"Lake Petocka",41.70643,-93.44058,1
+"653",2022,"Lake Sugema",40.68328,-91.98754,0
+"654",2022,"Lake Wapello",40.81972,-92.57375,0
+"655",2022,"Little River Lake",40.75038,-93.77902,3
+"656",2022,"Little Sioux Park Lake",42.44672,-95.80236,0
+"657",2022,"Little Spirit Lake",43.51209,-95.12499,1
+"658",2022,"Little Wall Lake (maximum water depth)",42.2667,-93.63953,1
+"659",2022,"Littlefield Lake (maximum water depth)",41.55941,-94.78629,3
+"660",2022,"Lost Grove Lake",41.66943,-90.43548,1
+"661",2022,"Lost Island Lake",43.17549,-94.90192,2
+"662",2022,"Lower Gar Lake",43.35489,-95.12101,0
+"663",2022,"Lower Pine Lake",42.36657,-93.07776,1
+"664",2022,"Manteno Lake",41.85356,-95.46747,0
+"665",2022,"Mariposa Lake",41.77771,-92.96277,0
+"666",2022,"Meadow Lake",41.3871,-94.43754,1
+"667",2022,"Meyers Lake",42.46176,-92.28956,2
+"668",2022,"Mill Creek Lake",42.98488,-95.67121,0
+"669",2022,"Mitchell Lake (Deep point)",42.47722,-92.31408,0
+"670",2022,"Moorehead Lake",42.35754,-95.48027,0
+"671",2022,"Mormon Trail Lake",41.2428,-94.63568,0
+"672",2022,"Nelson Lake",41.93681,-95.58867,0
+"673",2022,"Nine Eagles Lake",40.59674,-93.7723,0
+"674",2022,"Nodaway Lake",41.28937,-94.49757,0
+"675",2022,"North Twin Lake (maximum water depth)",42.47687,-94.63802,3
+"676",2022,"Oldham Lake",42.00801,-95.78949,0
+"677",2022,"Ottumwa Lagoon Max Depth",41.00692,-92.42805,0
+"678",2022,"Pierce Creek Lake",40.83131,-95.35775,0
+"679",2022,"Pleasant Creek Lake",42.12475,-91.81034,0
+"680",2022,"Poll Miller Park Lake",40.71265,-91.43595,0
+"681",2022,"Prairie Rose Lake",41.60132,-95.22749,3
+"682",2022,"Rathbun Lake",40.82497,-92.89401,1
+"683",2022,"Red Haw Lake",41.00068,-93.27194,0
+"684",2022,"Roberts Creek Lake",41.42159,-93.04923,0
+"685",2022,"Rock Creek Max Depth",41.73963,-92.85492,0
+"686",2022,"Rodgers Lake",42.20147,-92.07556,1
+"687",2022,"Rudd Lake",43.12571,-92.89189,0
+"688",2022,"Silver Lake (Palo Alto County)",43.03023,-94.88418,1
+"689",2022,"Silver Lake Max Depth",42.42363,-91.32668,2
+"690",2022,"Silver Lake Max Depth",43.43699,-95.33707,1
+"691",2022,"Slipbluff Lake",40.65377,-93.85292,0
+"692",2022,"Smith Lake",43.1234,-94.24147,0
+"693",2022,"South Prairie Lake",42.47783,-92.46016,0
+"694",2022,"Spring Lake Max Depth",42.06085,-94.28879,2
+"695",2022,"Springbrook Lake",41.77607,-94.4666,1
+"696",2022,"Storm Lake Max Depth",42.62157,-95.20419,0
+"697",2022,"Summit Lake",41.05996,-94.39648,3
+"698",2022,"Swan Lake Max Depth",42.03766,-94.84054,2
+"699",2022,"Thayer Lake",41.02162,-94.06568,0
+"700",2022,"Three Mile Lake",41.07138,-94.21299,0
+"701",2022,"Twelve Mile Lake",41.05572,-94.25503,1
+"702",2022,"Union Grove Lake",42.12521,-92.71887,0
+"703",2022,"Upper Gar Lake",43.36935,-95.12013,1
+"704",2022,"Upper Pine Lake",42.37371,-93.06644,1
+"705",2022,"Viking Lake",40.97617,-95.02991,0
+"706",2022,"Volga Lake (maximum water depth)",42.8957,-91.77085,1
+"707",2022,"West Lake Okoboji - Emerson Bay",43.35968,-95.16862,0
+"708",2022,"West Lake Okoboji - Main Basin North",43.40923,-95.16792,1
+"709",2022,"West Lake Okoboji - Millers Bay",43.3788,-95.17479,1
+"710",2022,"West Lake Okoboji - Smiths Bay",43.37205,-95.13489,0
+"711",2022,"West Lake Osceola",41.04001,-93.80528,0
+"712",2022,"West Okoboji Lake",43.3748,-95.14891,1
+"713",2022,"White Oak Lake",41.27389,-92.4762,1
+"714",2022,"Williamson Pond Max Depth",41.09644,-93.21548,2
+"715",2022,"Willow Lake",41.76936,-95.78895,1
+"716",2022,"Wilson Lake",40.83745,-94.54175,0
+"717",2022,"Windmill Lake",40.73104,-94.82708,1
+"718",2022,"Yellow Smoke Lake",42.02264,-95.3248,1
